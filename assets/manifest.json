@@ -1,0 +1,44 @@
+{
+  "order": ["Body", "Eyes", "Mouth", "Hair", "Bottom", "Top", "Shoes"],
+  "parts": {
+    "Body": ["assets/Body/body_1.png"],
+    "Eyes": [
+      "assets/Eyes/eyes_1.png",
+      "assets/Eyes/eyes_2.png",
+      "assets/Eyes/eyes_3.png"
+    ],
+    "Mouth": [
+      "assets/Mouth/mouth_1.png",
+      "assets/Mouth/mouth_2.png",
+      "assets/Mouth/mouth_3.png"
+    ],
+    "Hair": {
+      "male": [
+        "assets/Hair/male/hair_male_1.png",
+        "assets/Hair/male/hair_male_2.png",
+        "assets/Hair/male/hair_male_3.png",
+        "assets/Hair/male/hair_male_4.png"
+      ],
+      "female": [
+        "assets/Hair/female/hair_female_1.png",
+        "assets/Hair/female/hair_female_2.png",
+        "assets/Hair/female/hair_female_3.png"
+      ]
+    },
+    "Top": [
+      "assets/Top/top_1.png",
+      "assets/Top/top_2.png",
+      "assets/Top/top_3.png"
+    ],
+    "Bottom": [
+      "assets/Bottom/bottom_1.png",
+      "assets/Bottom/bottom_2.png",
+      "assets/Bottom/bottom_3.png"
+    ],
+    "Shoes": [
+      "assets/Shoes/shoes_1.png",
+      "assets/Shoes/shoes_2.png",
+      "assets/Shoes/shoes_3.png"
+    ]
+  }
+}

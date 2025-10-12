@@ -1,0 +1,12 @@
+{
+  "order": ["Body", "Eyes", "Mouth", "Hair", "Top", "Bottom", "Shoes"],
+  "counts": {
+    "Body": 1,
+    "Eyes": 3,
+    "Mouth": 3,
+    "Hair": { "male": 4, "female": 3 },
+    "Top": 3,
+    "Bottom": 3,
+    "Shoes": 3
+  }
+}

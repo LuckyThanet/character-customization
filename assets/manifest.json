@@ -1,5 +1,23 @@
 {
-  "order": ["Body", "Eyes", "Mouth", "Hair", "Bottom", "Top", "Shoes"],
+  "icon": [
+    "assets/Icon/eyes.png",
+    "assets/Icon/mouth.png",
+    "assets/Icon/hair.png",
+    "assets/Icon/hair2.png",
+    "assets/Icon/pants.png",
+    "assets/Icon/shirt.png",
+    "assets/Icon/shoes.png"
+  ],
+  "iconsMap": {
+    "Eyes": "assets/Icon/eyes.png",
+    "Mouth": "assets/Icon/mouth.png",
+    "Hair": "assets/Icon/hair.png",
+    "Hair2": "assets/Icon/hair2.png",
+    "Pants": "assets/Icon/pants.png",
+    "Shirt": "assets/Icon/shirt.png",
+    "Shoes": "assets/Icon/shoes.png"
+  },
+  "order": ["Body", "Eyes", "Mouth", "Hair" ,"Hair2", "Pants", "Shirt", "Shoes"],
   "parts": {
     "Body": ["assets/Body/body_1.png"],
     "Eyes": [
@@ -25,12 +43,12 @@
         "assets/Hair/female/hair_female_3.png"
       ]
     },
-    "Top": [
+    "Shirt": [
       "assets/Top/top_1.png",
       "assets/Top/top_2.png",
       "assets/Top/top_3.png"
     ],
-    "Bottom": [
+    "Pants": [
       "assets/Bottom/bottom_1.png",
       "assets/Bottom/bottom_2.png",
       "assets/Bottom/bottom_3.png"
@@ -39,6 +57,7 @@
       "assets/Shoes/shoes_1.png",
       "assets/Shoes/shoes_2.png",
       "assets/Shoes/shoes_3.png"
-    ]
+    ],
+    "empty": ["assets/empty.png"]
   }
 }
